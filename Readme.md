@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomLabel.cs](./CS/CustomLabel/CustomLabel.cs) (VB: [CustomLabel.vb](./VB/CustomLabel/CustomLabel.vb))
+* [Form1.cs](./CS/T461136/Form1.cs) (VB: [Form1.vb](./VB/T461136/Form1.vb))
+* [Program.cs](./CS/T461136/Program.cs) (VB: [Program.vb](./VB/T461136/Program.vb))
+* [XtraReport1.cs](./CS/T461136/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/T461136/XtraReport1.vb))
+<!-- default file list end -->
 # How to create a custom control and register it in the EUD toolbox with a custom icon  
 
 
